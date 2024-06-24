@@ -26,6 +26,10 @@
   "icon": "basketball",
   "pages": [
     {
+      "id": "Time Log",
+      "isDefault": false
+    },
+    {
       "id": "Dashboard",
       "isDefault": true
     },
